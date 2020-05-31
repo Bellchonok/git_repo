@@ -1,3 +1,7 @@
 print ("hello everyone")
 print ("hello new chance")
+<<<<<<< HEAD
 print ("you win")
+=======
+print  ("terminated")
+>>>>>>> feature/goodbye
