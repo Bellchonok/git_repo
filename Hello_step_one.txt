@@ -1,7 +1,3 @@
-print ("hello everyone";)
-print ("hello new chance";)
-<<<<<<< HEAD
+print ("hello everyone")
+print ("hello new chance")
 print ("you win")
-=======
-print  ("terminated")
->>>>>>> feature/goodbye
