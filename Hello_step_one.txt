@@ -1,5 +1,5 @@
-print ("hello everyone")
-print ("hello new chance")
+print ("hello everyone";)
+print ("hello new chance";)
 <<<<<<< HEAD
 print ("you win")
 =======
