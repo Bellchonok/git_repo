@@ -1,5 +1,6 @@
 print ("hello everyone")
 print ("hello new chance")
+print ("hello my dear friend")
 <<<<<<< HEAD
 print ("you win")
 =======
